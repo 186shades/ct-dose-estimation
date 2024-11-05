@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# <span>ECE 207A/BENG 280A Project </span>
+# <span>ECE 207A/BENG 280A Project 1 </span>
 ## <span>Monte Carlo Simulation for Radiation Dose Estimation in Fetal CT Imaging</span>
 
 </div>
