@@ -19,5 +19,6 @@ This project aims to estimate radiation dose in fetal CT imaging using Monte Car
 |   +-- voxel_gifs.ipynb
 |   +-- montecarlo_simulation.ipynb
 --- Group4_ProjectProposal.pdf
---- Group4_Presentation.pdf
+--- ECE 207A slides final.pptx
+--- ECE 207A slides final.pdf
 
